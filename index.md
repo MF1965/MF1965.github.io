@@ -12,3 +12,5 @@ Im Nottingham Forest lebte einst ein edler Mann. Er kämpfte für die Armen und 
 
 Man sagt, er hätte immer gerufen:
 > Ich bin der Rächer der Enterbten ...
+
+<img src="https://content.staatsbibliothek-berlin.de/dms/PPN740132407/1200/0/00000001.jpg"/>

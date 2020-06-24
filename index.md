@@ -9,3 +9,6 @@ Im Nottingham Forest lebte einst ein edler Mann. Er kämpfte für die Armen und 
 * redegewandt
 * charismatisch
 * Frauenheld
+
+Man sagt, er hätte immer gerufen:
+> Ich bin der Rächer der Enterbten ...
